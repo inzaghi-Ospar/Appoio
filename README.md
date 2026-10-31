@@ -7,3 +7,9 @@ o app ainda esta em estagio inicial entao por favor deixe sua opiniao no canal d
     <img src="https://img.shields.io/badge/BAIXAR_APP-0D1117?style=for-the-badge&logo=android&logoColor=34A853" width="500" alt="Download APK">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/inzaghi-Ospar/Appoio/releases">
+    <img src="https://img.shields.io/badge/HISTORICO_DE_VERSOES-24292e?style=for-the-badge&logo=github&logoColor=white" width="250" alt="Histórico de Mudanças">
+  </a>
+</p>
