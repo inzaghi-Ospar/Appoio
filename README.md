@@ -8,11 +8,12 @@ o app ainda esta em estagio inicial entao por favor deixe sua opiniao no canal d
     <img src="https://img.shields.io/badge/BAIXAR_APP-0D1117?style=for-the-badge&logo=android&logoColor=34A853" width="500" alt="Download APK">
   </a>
 </p>
+  
+  <p align="center">
+  <a href="https://wa.me/5521988113464" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150"alt="WhatsApp Badge"/>
+  </a>
 
-<p align="center"
-<a href="https://wa.me/5521988113464" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150"alt="WhatsApp Badge"/>
-</a>
 
 <p align="center">
   <a href="https://github.com/inzaghi-Ospar/Appoio/releases">
